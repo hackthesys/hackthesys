@@ -43,6 +43,17 @@
   </pre>
 </div>
 
+<pre style="
+  font-family: 'Fira Code', Consolas, monospace;
+  padding: 20px;
+  border-radius: 8px;
+  overflow-x: auto;
+">
+┌──(0mr4n@hackthesys)-[~]
+└─$ exit
+Connection terminated. Stay secure! 🛡️
+ </pre>
+
 ---
 
 <div align="center">

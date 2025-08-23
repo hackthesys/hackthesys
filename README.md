@@ -25,7 +25,14 @@
 </div>
 
 <div align="center">
-```
+  <pre style="
+  font-family: 'Fira Code', Consolas, monospace;
+  background-color: #0d1117;
+  color: #00f7ff;
+  padding: 20px;
+  border-radius: 8px;
+  overflow-x: auto;
+">
 ╔══════════════════════════════════════════════════════╗
 ║              🏴‍☠️ HACKTHESYS TERMINAL 🏴‍☠️              ║
 ║  > profile.scan()                                    ║
@@ -33,7 +40,7 @@
 ║  > send_message("Thanks for the visit!")            ║
 ║  [!] Stay curious, stay secure! 🛡️                  ║
 ╚══════════════════════════════════════════════════════╝
-  ```
+  </pre>
 </div>
 
 ---

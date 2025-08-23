@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+---
+
+## ðŸ’­ Philosophy
+
+> *"Security through understanding. Every system has its vulnerabilities, every code has its secrets, and every problem has an elegant solution in Rust."*
+
+---
+
 <!--
 **hackthesys/hackthesys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

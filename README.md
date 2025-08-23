@@ -1,8 +1,8 @@
-## Hi there 👋
+## 🥷 Hi there 👋
 
-## Philosophy
+## 💭 Philosophy
 
-> *"Security through understanding. Every system has its vulnerabilities, every code has its secrets, and every problem has an elegant solution in Rust."*
+> 🔮 *"Security through understanding. Every system has its vulnerabilities, every code has its secrets, and every problem has an elegant solution in Rust."*
 
 ## GitHub Stats
 
@@ -16,7 +16,7 @@
 
 </div>
 
-## Let's Connect
+## 🌐 Let's Connect
 
 <div align="center">
 

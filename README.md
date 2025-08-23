@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://count.getloli.com/@:HackTheSys" alt=":name" />
+<img src="https://count.getloli.com/@:HackTheSys&theme=morden-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0" alt=":HackTheSys" />

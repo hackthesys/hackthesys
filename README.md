@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <i> "The best way to learn cybersecurity is to break things... responsibly." âš¡</i>
+  <i> "The best way to learn cybersecurity is to break things... responsibly." </i>
 </div>
 
 <!--

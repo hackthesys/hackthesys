@@ -24,6 +24,8 @@
 
 </div>
 
+<div align="center">
+```
 ╔══════════════════════════════════════════════════════╗
 ║              🏴‍☠️ HACKTHESYS TERMINAL 🏴‍☠️              ║
 ║  > profile.scan()                                    ║
@@ -31,6 +33,8 @@
 ║  > send_message("Thanks for the visit!")            ║
 ║  [!] Stay curious, stay secure! 🛡️                  ║
 ╚══════════════════════════════════════════════════════╝
+  ```
+</div>
 
 ---
 

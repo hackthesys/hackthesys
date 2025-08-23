@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <i>âš¡ "The best way to learn cybersecurity is to break things... responsibly." âš¡</i>
+  <i> "The best way to learn cybersecurity is to break things... responsibly." âš¡</i>
 </div>
 
 <!--
@@ -40,5 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://count.getloli.com/@:HackTheSys?theme=sketch-1" alt="Visitor counter" />

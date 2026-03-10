@@ -7,10 +7,6 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackthesys&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackthesys&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hackthesys&theme=radical&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)
 
